@@ -107,7 +107,7 @@ For their guidance and mentorship throughout the RHCSA coursework.
 
 **Anuj Thakur**  
 BCA (Hons.) Cyber Security – Lovely Professional University  
-🔗 [LinkedIn](https://www.linkedin.com/in/anujthakurkumar)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anuj-kumar-bb19542b0/)  
 📁 [GitHub](https://github.com/Anujthakurkumar)
 
 ---
@@ -117,9 +117,5 @@ BCA (Hons.) Cyber Security – Lovely Professional University
 This project is licensed under the **MIT License** – see the `LICENSE` file for details.
 
 ---
-
-## 📷 Preview
-
-Screenshots and a full walkthrough of select scripts are available in the repository under the `screenshots/` directory.
 
 > 📌 **Tip:** Fork this repo, contribute, or use it as a reference to prepare for your own RHCSA certification!
