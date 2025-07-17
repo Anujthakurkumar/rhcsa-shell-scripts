@@ -14,4 +14,4 @@ echo " Last 5 System Reboots: "
 echo "___________________________"
 last reboot | head -n 5
 echo "___________________________"
-echo "Report Completed"
+echo "Report Completed successfully."
